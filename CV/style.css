@@ -1,0 +1,174 @@
+header{
+    display: block;
+    background-color: rebeccapurple;
+    width: 50%;
+    position: absolute;
+    left: 25%;
+    margin: 0%;
+    height: 130px;
+}
+h1{
+    display: block;
+    color: white;
+    position:relative;
+    left: 200px;
+    margin: 0px;
+    top:20px ;
+
+}
+body{
+    margin: 0px;
+    background-color: white;
+}
+#profile{
+    display: inline-block;
+    margin: 10px;
+    border-radius: 50%;
+    width: 100px;
+    position: absolute;
+    top: 5px;
+    left: 5%;
+}
+ul{
+    color: white;
+    font-size: 15px;
+    position: absolute;
+    left: 55%;
+    top: 5px;
+}
+.imagenes{
+    width: 25px;
+}
+p.pa1{
+    width:47.5%;
+    display: block;
+    position: absolute;
+    top: 130px;
+    left: 25%;
+    margin: 20px;
+    font-size: 18px;
+    text-align: center;
+}
+
+#titulo1{
+    display: block;
+    width: 47.5%;
+    position: absolute;
+    left: 25%;
+    top: 200px;
+    margin: 20px;
+    
+}
+#div1{
+    display: block;
+    background-color: rebeccapurple;
+    width: 50%;
+    position: absolute;
+    left: 25%;
+    top:240px;
+    height: 10px;
+    margin: 0px;
+    border: 0px;
+}
+ul.li1{
+    color: black;
+    display:inline-block;
+    font-size: 20px;
+    position: absolute;
+    left: 27%;
+    top: 260px;
+
+}
+ul.li2{
+    color: black;
+    display: inline-block;
+    font-size: 20px;
+    position: absolute;
+    left: 43%;
+    top: 260px;
+}
+p.soft{
+    width: 200px;
+    display: inline-block;
+    font-size: 20px;
+    position: absolute;
+    left: 60%;
+    top: 240px;
+    text-align: left;
+}
+p.titulo2{
+    display: block;
+    width: 47.5%;
+    position: absolute;
+    left: 25%;
+    top: 440px;
+    margin: 20px;
+    font-size: 21px;
+    font-weight: bold;
+}
+
+#div2{
+    display: block;
+    background-color: rebeccapurple;
+    width: 50%;
+    position: absolute;
+    left: 25%;
+    top:482px;
+    height: 10px;
+    margin: 0px;
+    margin: 0px;
+    border: 0px;
+}
+
+
+dl.dl1{
+    color: black;
+ 
+    display:inline-block;
+    font-size: 18px;
+    position: relative;
+    left: 27%;
+    top: 490px;
+}
+dl.dl2{
+    color: black;
+ 
+    display:inline-block;
+    font-size: 18px;
+    position: relative;
+    left: 35%;
+    top: 490px;
+}
+
+
+#div3{
+    display: block;
+    background-color: rebeccapurple;
+    width: 50%;
+    position: absolute;
+    left: 25%;
+    top:710px;
+    height: 10px;
+    margin: 0px;
+    margin: 0px;
+    border: 0px;
+}
+
+p.titulo3{
+    display: block;
+    width: 47.5%;
+    position: absolute;
+    left: 25%;
+    top: 669px;
+    margin: 20px;
+    font-size: 21px;
+    font-weight: bold;
+}
+ul.li3{
+    color: black;
+    display:inline-block;
+    font-size: 20px;
+    position: absolute;
+    left: 27%;
+    top: 720px;
+}
